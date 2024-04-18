@@ -1,0 +1,14 @@
+{
+    "name": "Stupid Thing",
+    "description": "Personal use plugin for testing",
+    "authors": [
+        {
+            "name": "Mars",
+            "id": "449287407142043658"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
